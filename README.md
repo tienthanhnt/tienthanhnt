@@ -1,19 +1,16 @@
 # About Me
 
-👋 Hi, I’m @yourusername, you can call me Your Name.
+👋 Hi, I’m Thanh a software engineer working as a freelancer, you can call me Adam.
 
 👀 I’m interested in:
-- Data sharing
 - Network systems
 - Network economics
 
 💞️ I’m looking to collaborate on:
 - Researching Blockchain
 - Federated Learning
-- Blockchain-enabled Everything
 
-📫 You can reach me via my email: [your.email@example.com](mailto:your.email@example.com)
+📫 You can reach me via my email: [ntthanh.bkhn@gmail.com](mailto:ntthanh.bkhn@gmail.com)
 
 💻 Tech Stack:
-- Python
-- Solidity
+- Python, C/C++, Blockchain, ML, AI
